@@ -1,1 +1,1 @@
-# bikeTrajectoryMapping
+# BikeTrajectoryMapping
